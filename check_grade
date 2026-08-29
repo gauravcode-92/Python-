@@ -1,4 +1,4 @@
-marks=19
+marks=100
 
 if marks>100:
 	print("Enter valid marks.")

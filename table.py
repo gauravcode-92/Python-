@@ -1,4 +1,4 @@
-n=10
+n=45
 
 for i in range(1,11):
 	print(n,"x",i,n*i)

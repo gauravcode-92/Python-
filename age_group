@@ -1,4 +1,4 @@
-age=1
+age=76
 
 if age<13:
 	group="Child"

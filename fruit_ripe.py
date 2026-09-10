@@ -1,5 +1,5 @@
 fruit="Banana"
-color="Brown"
+color="Green"
 
 if fruit=="Banana":
 	if color=="Green":

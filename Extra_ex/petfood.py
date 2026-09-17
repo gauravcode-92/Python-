@@ -1,5 +1,5 @@
 species="dog"
-age=2
+age=6
 if species=="dog":	
 	if age<2:
 		print(species +" junior food")
